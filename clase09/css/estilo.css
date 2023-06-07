@@ -1,0 +1,22 @@
+    p{
+    color:red;
+}
+   h1{
+    color:blue;
+    text-decoration-line: underline;
+    text-align: center;
+}
+   .uno{
+    color:rgb(120, 221, 113);
+    font-weight:bold; 
+    font-size: 30px;
+}
+    .dos {
+    color:blue;
+    font-size: 8px;
+}
+   p.dos {
+    color:rgb(255, 0, 93);
+    font-size: 15px;
+
+   }
